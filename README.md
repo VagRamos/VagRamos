@@ -14,8 +14,13 @@
 <h3 align="center">Minhas Skills</h3>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagramos&layout=compact&hide=Hack" alt="vagramos stats"/>
+</p>
+
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=vagramos&show_icons=true&theme=dracula" alt="vagramos"/>
 </p>
+
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="25" height="25"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="25" height="25"/>
@@ -30,10 +35,6 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagramos&layout=compact&hide=Hack" alt="vagramos stats"/> 
-</p>
-
 <h2>Entre em contato comigo</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/vagramos)
@@ -45,7 +46,6 @@
 </p>
 
 <!-- ### Hi there 👋 -->
-
 <!--
 **VagRamos/VagRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
