@@ -2,13 +2,15 @@
 
 <h3 align="center">A web developer evolving to a fullstack web developer</h3>
 
-<p align="left">
- <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/48002360/117884840-7a76d480-b283-11eb-9cd3-bced7dc42b61.png">
+<p align="center">
  Estudante de análise e desenvolvimento de sistemas na Fatec de São Paulo e desenvolvedor web fullstack em constante evolução e aprendizado! Aqui você irá encontrar alguns projetos que estudo e desenvolvo em cursos e em outros projetos. 
 <br>Esteja a vontade para contribuir, dar dicas e deixar seus comentários! :metal: :computer:
 </p>
 
-<br><br><br>
+<p align="center">
+ <img width="200" height="200" src="https://user-images.githubusercontent.com/48002360/117884840-7a76d480-b283-11eb-9cd3-bced7dc42b61.png">
+</p>
+
 <h3 align="center">Minhas Skills</h3>
 
 <p align="center">
@@ -27,6 +29,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/>
 </p>
 
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagramos&layout=compact&hide=Hack" alt="vagramos stats"/> 
 </p>
@@ -38,7 +41,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:vag.pare@gmail.com)
 
 <p align="right">
- <img src="https://www.flaticon.com/svg/vstatic/svg/1140/1140023.svg?token=exp=1620766756~hmac=c167e6a0c8795fd9145babc261e4d81f" alt="Thanks" width="40" height="40"/>
+ <img src="https://user-images.githubusercontent.com/48002360/118191689-58b05580-b41b-11eb-8f68-50661bd24241.png" alt="Thanks" width="40" height="40"/>
 </p>
 
 <!-- ### Hi there 👋 -->
@@ -56,4 +59,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
 -->
