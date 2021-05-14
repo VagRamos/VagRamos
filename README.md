@@ -3,8 +3,8 @@
 <h3 align="center">Desenvolvedor web full stack em evolução</h3>
 
 <p align="center">
- Olá sou o Vagner, desenvolvedor web full stack em constante evolução e em busca de desafios!<br>
- Aqui você irá encontrar alguns projetos que desenvolvo, alguns estudos entre outros experimentos.<br>
+ Olá, sou o Vagner, desenvolvedor web full stack em constante evolução e em busca de desafios!<br>
+ Aqui você irá encontrar alguns projetos que desenvolvo e alguns estudos entre outros experimentos.<br>
  Esteja a vontade para contribuir, dar dicas e deixar seus comentários e interagir! :metal: :computer:
 </p>
 
