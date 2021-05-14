@@ -1,10 +1,11 @@
-<h1 align="center">Welcome to Vagner's Github page <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
+<h1 align="center">VagRamos Github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
-<h3 align="center">A web developer evolving to a fullstack web developer</h3>
+<h3 align="center">Desenvolvedor web full stack em evolução</h3>
 
 <p align="center">
- Estudante de análise e desenvolvimento de sistemas na Fatec de São Paulo e desenvolvedor web fullstack em constante evolução e aprendizado! Aqui você irá encontrar alguns projetos que estudo e desenvolvo em cursos e em outros projetos. 
-<br>Esteja a vontade para contribuir, dar dicas e deixar seus comentários! :metal: :computer:
+ Olá sou o Vagner, desenvolvedor web full stack em constante evolução e em busca de desafios!<br>
+ Aqui você irá encontrar alguns projetos que desenvolvo, alguns estudos entre outros experimentos.<br>
+ Esteja a vontade para contribuir, dar dicas e deixar seus comentários e interagir! :metal: :computer:
 </p>
 
 <p align="center">
@@ -35,7 +36,7 @@
 </p>
 
 <br>
-<h2>Entre em contato comigo</h2>
+<h2 align="center">Entre em contato comigo</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/vagramos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/vagner-ramos/)
