@@ -1,4 +1,6 @@
-<h1 align="center">Hi, this is Vagner Ramos<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
+<h1 align="center">Hi, this is Vagner Ramos<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vagramos&color=blue"> </p>
 
 <h3 align="center">Analista de QA e Desenvolvedor Web Jr.</h3>
 
@@ -14,14 +16,14 @@
 </p>
 
 
-<h3 align="center">Minhas Skills</h3>
+<h3 align="center">:robot: Github Stats :bar_chart:</h3>
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagramos&layout=compact&hide=Hack" alt="vagramos stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagramos&layout=compact&hide=Hack&theme=radical" alt="vagramos stats"/>
 </p>
 
 <p align="center">
- <img width="450" src="https://github-readme-stats.vercel.app/api?username=vagramos&show_icons=true&theme=dracula" alt="vagramos"/>
+ <img width="400em" src="https://github-readme-stats.vercel.app/api?username=vagramos&show_icons=true&theme=radical" alt="vagramos"/>
 </p>
 
 <p align="center">
