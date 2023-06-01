@@ -1,15 +1,16 @@
-<h1 align="center">Hi, this is Vagner Ramos<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Vagner Ramos<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vagramos&color=blue"> </p>
 
-<h3 align="center">Analista de QA e Desenvolvedor Web Jr.</h3>
+<h3 align="center">Desenvolvedor de Sistemas e Analista de testes automatizados</h3>
 
 <p align="center">
- Olá, sou o Vagner, Analista de testes | QA e Desenvolvedor Web Jr. em constante movimento e olhando desafios!<br>
- Aqui você irá encontrar alguns projetos que desenvolvo e alguns estudos entre outros experimentos.<br>
- Esteja a vontade para contribuir, compatilhar dicas, experiências e deixar seus comentários e interagir! :metal: :computer:
+ Olá, sou desenvolvedor de sistemas e analista de automação de testes | QA, com conhecimentos em Frontend, Backend e BDD!<br>
+ Aqui você irá encontrar alguns projetos e estudos que desenvolvo.<br>
+ Esteja a vontade para contribuir, compatilhar dicas, experiências, deixar seus comentários e interagir! :metal: :computer:
 </p>
 
+<br/>
  <p align="center">
  <!-- <img width="200" height="200" src="https://user-images.githubusercontent.com/48002360/117884840-7a76d480-b283-11eb-9cd3-bced7dc42b61.png"> -->
  <img width="300" src="https://raw.githubusercontent.com/gist/VagRamos/dc32790315d6e4c4b02f626f1af55650/raw/b0a20ce52ffaa21ff0484329e342ce962794b5ce/githubcard.svg">
