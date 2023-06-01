@@ -6,7 +6,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/gist/VagRamos/dc32790315d6e4c4b02f626f1af55650/raw/b0a20ce52ffaa21ff0484329e342ce962794b5ce/githubcard.svg" width="260">
 
-<h2 align="">Desenvolvedor de Sistemas e Analista de testes automatizados</h2>
+<h2 align="">Desenvolvedor de Sistemas e Analista de Testes Automatizados</h2>
 QA | PHP | Javascript | Java | Spring Boot | ReactJS | HTML | CSS | Typescript 🚀
 
 <p align="">
