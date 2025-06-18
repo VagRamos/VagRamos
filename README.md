@@ -1,10 +1,8 @@
 <h1 align="">Vagner Ramos</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/Email-7B68EE?style=flat&logo=azure-devops&logoColor=white&link=mailto:seu_email)](mailto:contato@vagramos.com.br)
+[![E-mail](https://img.shields.io/badge/-Email-7B68EE?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:seu_email)](mailto:contato@vagramos.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7B68EE?style=flat&logo=Linkedin&logoColor=white&target=_blank&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/vagner-ramos/)
 [![Personal Badge](https://img.shields.io/badge/-Website-7B68EE?style=flat&logo=Me&logoColor=white&target=_blank&link=https://www.vagramos.com.br/)](https://vagramos.com.br/)
-
-
 
 <img align="right" src="https://raw.githubusercontent.com/gist/VagRamos/dc32790315d6e4c4b02f626f1af55650/raw/b0a20ce52ffaa21ff0484329e342ce962794b5ce/githubcard.svg" width="260"/>
 
