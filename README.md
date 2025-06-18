@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7B68EE?style=flat&logo=Linkedin&logoColor=white&target=_blank&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/vagner-ramos/)
 [![Personal Badge](https://img.shields.io/badge/-Website-7B68EE?style=flat&logo=Me&logoColor=white&target=_blank&link=https://www.vagramos.com.br/)](https://vagramos.com.br/)
 
-<img align="right" src="https://raw.githubusercontent.com/gist/VagRamos/dc32790315d6e4c4b02f626f1af55650/raw/b0a20ce52ffaa21ff0484329e342ce962794b5ce/githubcard.svg" width="260"/>
+<img align="right" src="https://github.com/user-attachments/assets/388f0162-7609-4102-bad9-a66d11a62814" width="260"/>
+
 
 <h2 align="">Desenvolvedor de Sistemas e Analista de Testes Automatizados</h2>
 QA | Java | Spring Boot | Javascript | ReactJS | PHP | HTML | CSS | Typescript 🚀
