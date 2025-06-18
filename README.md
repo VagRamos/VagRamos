@@ -26,7 +26,7 @@ QA | Java | Spring Boot | Javascript | ReactJS | PHP | HTML | CSS | Typescript ð
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
- <img src="https://github.com/VagRamos/VagRamos/assets/48002360/7f0636a1-8eb6-4cba-b4e6-ff0b45c1587a" alt="PHP" width="30" height="30"/>
+ <img src="https://github.com/VagRamos/VagRamos/assets/48002360/7f0636a1-8eb6-4cba-b4e6-ff0b45c1587a" alt="React" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
